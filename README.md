@@ -1,4 +1,4 @@
-# Github and git
+# CSC 4110-assignment1
 ## Geovanni Tinoco
 ### hd3652
 
