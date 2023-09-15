@@ -1,4 +1,4 @@
-# CSC 4110-assignment1
+# Github and git conflict
 ## Geovanni Tinoco
 ### hd3652
 
