@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Github and git conflict
+=======
+# Github and git
+>>>>>>> development
 ## Geovanni Tinoco
 ### hd3652
 
